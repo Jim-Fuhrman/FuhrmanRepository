@@ -1,0 +1,8 @@
+Breaking Bread Issue : Belmont Mass|928 : Glory to God|929 : Alleluia|930 : Lenten Gospel Acclamation|931 : Holy|932 : We Proclaim Your Death|933 : When We Eat This Bread|934 : Save Us, Savior|935 : Amen|936 : Lamb of God
+Breaking Bread Issue : Chant Mass|842 : Kyrie|843 : Gloria|844 : Sanctus|845 : Post Consecrationem|846 : Amen|847 : Pater Noster|848 : Agnus Dei
+Breaking Bread Issue : Heritage Mass|874 : Lord, Have Mercy|875 : Glory to God|876 : Holy|877 : We Proclaim Your Death|878 : When We Eat|879 : Save Us, Savior|880 : Amen|881 : Lamb Of God
+Breaking Bread Issue : Mass of Creation|869 : Glory to God|870 : Holy|871 : When We Eat|872 : Amen|873 : Lamb Of God
+Breaking Bread Issue : Mass of Glory|882 : Penitential Act with Invocations|883 : Glory to God|884 : Alleluia! Give the Glory|885 : Lenten Gospel Acclamation|886 : Holy|887 : We Proclaim Your Death|888 : When We Eat This Bread|889 : Save Us, Savior|890 : Amen|891 : Lamb Of God
+St. Michael Hymnal : Missa Jubilate Deo|100 : Kyrie|101 : Gloria|102 : Credo|103 : Sanctus|104 : Memorial Acclamation|105 : Amen|106 : Agnus Dei
+St. Michael Hymnal : Missa de Angelis|107 : Kyrie|101 : Gloria|108 : Sanctus|104 : Memorial Acclamation|109 : Agnus Dei
+St. Michael Hymnal : Missa Orbis Factor|110 : Kyrie|111 : Sanctus|112 : Agnus Dei
